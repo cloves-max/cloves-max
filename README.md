@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedora Backend focada em performance, arquitetura e código limpo.</strong>
+  <strong>Desenvolvedor Backend focado em performance, arquitetura e código limpo.</strong>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedora backend especializada em **PHP 8+**, **Laravel** e **MySQL**, com foco na construção de **APIs REST robustas**, seguras e escaláveis.
+Sou desenvolvedor backend especializado em **PHP 8+**, **Laravel** e **MySQL**, com foco na construção de **APIs REST robustas**, seguras e escaláveis.
 
-Trabalho com mentalidade de produto, aplicando **Clean Architecture**, **SOLID** e **boas práticas reais**, não só teoria.
+Trabalho com mentalidade de produto, aplicando **Clean Architecture**, **SOLID** e **boas práticas reais**.
 
 ---
 
