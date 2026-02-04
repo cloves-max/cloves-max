@@ -1,32 +1,46 @@
-<h1 align="center">👋 Olá, eu sou Cloves</h1>
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+<h1 align="center">
+  👋 Olá, eu sou Cloves
+</h1>
 
 <p align="center">
-  Desenvolvedora Backend • PHP • Laravel • MySQL
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+PHP+%7C+Laravel+%7C+MySQL;Arquitetura+Limpa+e+APIs+Escal%C3%A1veis;Clean+Code+%7C+SOLID+%7C+DDD" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-8%2B-777BB4?style=flat-square&logo=php" />
-  <img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql" />
+  <strong>Desenvolvedora Backend focada em performance, arquitetura e código limpo.</strong>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Desenvolvedora Backend com foco em **PHP 8+**, **Laravel** e **MySQL**, especializada na construção de **APIs robustas**, **arquiteturas limpas** e sistemas escaláveis.
+Sou desenvolvedora backend especializada em **PHP 8+**, **Laravel** e **MySQL**, com foco na construção de **APIs REST robustas**, seguras e escaláveis.
 
-Gosto de código bem escrito, decisões técnicas conscientes e soluções que sobrevivem ao crescimento do produto.
+Trabalho com mentalidade de produto, aplicando **Clean Architecture**, **SOLID** e **boas práticas reais**, não só teoria.
 
 ---
 
-## 🧠 Principais Skills
+## 🧠 Core Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,githubactions,linux&perline=7" />
+</p>
+
+---
+
+## 🛠️ Backend & Arquitetura
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
 
 ```text
+✔ APIs RESTful
 ✔ PHP 8+
-✔ Laravel (APIs RESTful)
-✔ MySQL & Modelagem Relacional
-✔ Clean Architecture & SOLID
-✔ Design Patterns
-✔ TDD / Testes Automatizados
-✔ Docker & CI/CD
+✔ Laravel 9 | 10 | 11+
+✔ MySQL / MariaDB
+✔ Eloquent & Query Builder
+✔ Autenticação JWT / Sanctum
