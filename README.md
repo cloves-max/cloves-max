@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Cloves</h1>
 
-<!--
-**cloves-max/cloves-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedora Backend • PHP • Laravel • MySQL
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8%2B-777BB4?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Desenvolvedora Backend com foco em **PHP 8+**, **Laravel** e **MySQL**, especializada na construção de **APIs robustas**, **arquiteturas limpas** e sistemas escaláveis.
+
+Gosto de código bem escrito, decisões técnicas conscientes e soluções que sobrevivem ao crescimento do produto.
+
+---
+
+## 🧠 Principais Skills
+
+```text
+✔ PHP 8+
+✔ Laravel (APIs RESTful)
+✔ MySQL & Modelagem Relacional
+✔ Clean Architecture & SOLID
+✔ Design Patterns
+✔ TDD / Testes Automatizados
+✔ Docker & CI/CD
