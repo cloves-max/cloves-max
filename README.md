@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor backend especializado em **PHP 8+**, **Laravel** e **MySQL**, com foco na construção de **APIs REST robustas**, seguras e escaláveis.
+Sou desenvolvedor backend especializado em **PHP 7+**, **Laravel** e **MySQL**, com foco na construção de **APIs REST robustas**, seguras e escaláveis.
 
 Trabalho com mentalidade de produto, aplicando **Clean Architecture**, **SOLID** e **boas práticas reais**.
 
